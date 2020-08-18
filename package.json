@@ -1,6 +1,6 @@
 {
   "name": "pug3-loader",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "author": "Tobias Koppers @sokra",
   "description": "Pug loader module for webpack",
   "maintainers": [
