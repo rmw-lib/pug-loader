@@ -1,5 +1,5 @@
 {
-  "name": "@rmw/pug-loader",
+  "name": "pug3-loader",
   "version": "2.4.2",
   "author": "Tobias Koppers @sokra",
   "description": "Pug loader module for webpack",
